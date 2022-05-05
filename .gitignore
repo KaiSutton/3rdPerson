@@ -74,3 +74,4 @@ crashlytics-build.properties
 
 # Custom stuff to ignore
 Assets/Animation/
+Assets/Graphics/
